@@ -6,11 +6,9 @@ Welcome to Awesome Open Source Programs! This repository is a curated list of op
 
 - **Education and Training** - Programs that offer education and training opportunities for open source development, such as online courses, tutorials, and workshops.
 - **Internships and Mentorships** - Programs that provide opportunities for students and early-career developers to gain experience working on open source projects.
-- **Community Building** - A list of open-source communities that provide support and resources for developers and enthusiasts.
-- **Funding and Support** - Programs that offer funding or grants to support open source development and infrastructure.
+- **Community Building & Advocacy** - A list of open-source communities that provide support and resources for developers and enthusiasts.
+- **Grants and Funding** - Programs that offer funding or grants to support open source development and infrastructure.
 - **Research and Development** - Programs that support open source research and development.
-- **Advocacy and Outreach** - Programs that advocate for open source development and provide resources for open source projects.
-- **Others** - Programs that do not fit into any of the above categories, but are still relevant to open source development.
 
 ## Contributing
 

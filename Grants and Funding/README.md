@@ -15,3 +15,5 @@ This category includes open source programs that offer funding or grants to supp
   - **Secure Open Source** - which support open source projects that improve the security of the internet. Awards up to $50,000.
 
 - [**Open Source Seed Initiative (OSSI)\***](https://osseeds.org/)
+
+- [**Igalia Coding Experience Program**](https://www.igalia.com/coding-experience/) - This is a grant program specifically meant for people studying Computer Science, Information Technology, or Free Software, whether in a formal setting or an informal one.

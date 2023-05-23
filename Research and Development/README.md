@@ -12,3 +12,16 @@ This category includes programs that support open source research and developmen
 
 - [**The Eclipse Foundation\***](https://www.eclipse.org/)  
    The Eclipse Foundation is a non-profit organization that provides a host for open source software projects. The Eclipse Foundation's projects include [Eclipse](https://www.eclipse.org/eclipseide/), [Eclipse Che](https://www.eclipse.org/che/), [Eclipse IoT](https://iot.eclipse.org/), [Eclipse Science](https://science.eclipse.org/), and [Eclipse Theia](https://theia-ide.org/).
+
+- [**Google Summer of Earth Engine**](https://sites.google.com/view/summerofearthengine/home?authuser=0) - This is a research program targeting mainly university students and researchers from India. The participants of the program are offered an opportunity to work with leading research organizations that work to find solutions around issues affecting environment, water and agriculture.
+
+- [**Reinforcement Learning Open-Source Fest**](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) - The major focus of this program is to introduce students to open-source reinforcement learning programs and software development while working alongside researchers, data scientists, and engineers on the Real World Reinforcement Learning team at Microsoft Research.
+
+**Other R&D projects**
+
+- [Open Summer of Code](https://osoc.be/)
+- [Codeheat](https://codeheat.org/)
+- [FOSSASIA Program](https://fossasiataipei.github.io/fossasia-cht/apply/)
+- [Segment Open Fellowship](https://segment.com/opensource/)
+- [Apache OpenOffice](https://www.openoffice.org/)
+- [Career Opporunites in Open-Source](https://www.outreachy.org/opportunities/)
