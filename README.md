@@ -1,3 +1,7 @@
+### Description
+
+In software development, a README file contains information about the other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called README, Read Me, READ.ME, README.TXT,[1] README.md (to indicate the use of Markdown), or README.1st
+
 # Awesome-Open-Source-Programs
 
 Welcome to Awesome Open Source Programs! This repository is a curated list of open source programs across various categories, including education and training, community building, funding and support, research and development, advocacy and outreach, and industry and business. Our goal is to help developers and enthusiasts find and contribute to open source projects that align with their interests and skills.
