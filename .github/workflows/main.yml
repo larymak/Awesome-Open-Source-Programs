@@ -1,0 +1,53 @@
+name: Open Source Program
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome issue
+        if: github.event_name == 'issues'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const issue = context.issue;
+            const repo = context.repo;
+            const issueAuthor = context.payload.sender.login;
+
+            const welcomeMessage = `
+              Hi @${IssueAuthor}! :wave:
+
+              Thank you for creating an issue in our repository! We appreciate your contribution
+            `;
+
+            github.rest.issues.createComment({
+              ...repo,
+              issue_number: issue.number,
+              body: welcomeMessage
+            });
+
+      - name: Welcome Pull Request
+        if: github.event_name == 'pull_request_target'
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const pr = context.issue;
+            const repo = context.repo;
+            const prAuthor = context.payload.sender.login;
+
+            const welcomeMessage = `
+              Hi @{prauthor}! :wave:
+
+              Thanks for creating a pull request in our repository! Appreciate the contribution
+            `;
+
+            github.rest.issues.createComment({
+              ...repo,
+              issue_number: pr.number,
+              body: welcomeMessage
+            });
